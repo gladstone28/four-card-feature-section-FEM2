@@ -31,7 +31,7 @@ Users should be able to:
 ### Screenshot
 
 ![](.screenshots/four-card-feature-section-mobile.jpg)
-![](./screenshots\four-card-feature-section-desktop.png)
+![](./screenshots/four-card-feature-section-desktop.png)
 
 
 
